@@ -12,3 +12,4 @@ A list of companies that do and don't do customer support. Awesome ones and not 
 * Knuspr – resolve issues often (but not always).
 * Midi Hub – direct communication.
 * MVG Rad – resolve issues always in my favor (and almost always on time).
+* Simply Piano – fast responses, detailed answers.
